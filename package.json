@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "package.json": "^2.0.1",
+    "winston": "^3.8.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  },
+  "name": "praticejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": " NODE_ENV=project node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
